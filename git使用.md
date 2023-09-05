@@ -50,7 +50,7 @@ git add 文件名 //添加指定文件
 第五步：提交文件
 
 ```
-git commit -u "描述此次操作" // 比如"add a new file"
+git commit -m "描述此次操作" // 比如"add a new file"
 ```
 
 第六步：用SSH来将本地仓库和githu仓库进行连接
@@ -98,7 +98,7 @@ git push -u origin master
    ```
 
 2. ```
-   git commit -u "描述"
+   git commit -m "描述"
    ```
 
 3. ```
